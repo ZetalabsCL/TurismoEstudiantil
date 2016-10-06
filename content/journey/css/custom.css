@@ -1,0 +1,11 @@
+Header .top_bar_left, #Header_creative, #Top_bar #menu, .header-below #Top_bar, .header-classic #Top_bar, .header-fixed #Top_bar, .header-stack #Top_bar {
+    background-color: #fff;
+}
+
+#Top_bar .menu > li > a {
+    color: #22417f;
+}
+
+#Top_bar .menu > li.current-menu-item > a, #Top_bar .menu > li.current_page_item > a, #Top_bar .menu > li.current-menu-parent > a, #Top_bar .menu > li.current-page-parent > a, #Top_bar .menu > li.current-menu-ancestor > a, #Top_bar .menu > li.current-page-ancestor > a, #Top_bar .menu > li.current_page_ancestor > a, #Top_bar .menu > li.hover > a {
+    color: #f8b133;
+}
